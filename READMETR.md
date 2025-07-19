@@ -49,7 +49,7 @@ Formu tamamladıktan sonra gönderip özet ekranında bilgilerinizi görebilirsi
 ## Canlı Demo
 
 Projeyi aşağıdaki bağlantı üzerinden canlı olarak inceleyebilirsiniz:  
-[https://your-demo-url.com](https://your-demo-url.com)
+[BasicMultiStepCV](https://basicmultistepcv.vercel.app/)
 
 ---
 

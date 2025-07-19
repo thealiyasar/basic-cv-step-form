@@ -28,6 +28,13 @@ const App = () => {
       <div className="min-h-screen flex items-center justify-center bg-gray-100 dark:bg-gray-900 p-4 overflow-auto transition-colors duration-300">
         <div className="absolute w-fit top-4 right-4">
           <div className="flex items-center gap-2">
+            <a
+              target="_blank"
+              href="https://github.com/thealiyasar/basic-cv-step-form"
+              className="p-2 rounded bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 transition"
+            >
+              Github
+            </a>
             <ThemeToggle />
             <LanguageToggle />
           </div>
